@@ -1,3 +1,4 @@
-Developed an algorithmic solution to optimize the package delivery route for WGUPS. The project aimed
-to ensure on-time delivery for an average of 40 packages per day using a fleet of three trucks and two
-drivers, while minimizing the combined total distance traveled to under 140 miles.
+# WGU-Student Roster
+Responsible for implementing a robust student roster system for a university aiming to migrate their
+existing student database to a new platform. The project involved two core classes (Student and Roster),
+and operations for adding, removing, and modifying student data.
